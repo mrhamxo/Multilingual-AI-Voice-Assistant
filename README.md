@@ -30,8 +30,10 @@ A real-time voice-based assistant that listens to your speech, understands your 
 ├── app.py                  # Streamlit frontend
 ├── requirements.txt        # Python dependencies
 ├── output/                 # Saved audio responses
+├── research/               # Saved trails.ipynb
+  └── trails.ipynb          # Experiments  
 └── src/
-└── helper.py           # Core logic (voice, LLM, TTS)
+  └── helper.py           # Core logic (voice, LLM, TTS)
 
 ````
 
