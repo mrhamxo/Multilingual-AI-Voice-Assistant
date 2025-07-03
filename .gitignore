@@ -1,0 +1,4 @@
+.env
+__pycache__/
+myenv/
+multilingual_AI_Voice_Assistant.egg-info/
